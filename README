@@ -20,3 +20,5 @@ TODO (22.02.2012):
 - Concurrent preview player.
 
 Thanks to Roel Sanchez [roel.san@gmail.com] [http://www.roelsanchez.net/] for testing this out.
+
+This Editor tool uses a JSonFX [https://github.com/jsonfx/jsonfx] distribution for Unity3d by The Dark Table [http://the.darktable.com/]
