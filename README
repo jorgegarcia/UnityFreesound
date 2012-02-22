@@ -1,0 +1,21 @@
+
+	UnityFreesound - Editor tool for Unity3d
+
+	Author: Jorge Garcia [info@jorgegarciamartin.com]
+
+-------------------------------------------------------
+
+Freesound.org meets Unity3d! Browse, preview, download and credit sounds from Freesound.org within the Unity editor.
+
+Just copy the UnityFreesound folder to the /Editor folder in your Unity project. You will find afterwards two new entries in the Window menu:
+- Freesound Browser. Allows searching and browsing sounds for keywords/tags, listen to a preview of the sounds, go to Freesound.org for a more detailed description if you clic on the waveforms, and import the sounds to a user defined folder (/Freesound folder is used as default).
+- Freesound Config and Credits. Here you can define a folder where the sounds will be stored. Additionally, export the sounds meta-data to CSV format in order to help you with your application credits.
+
+TODO (22.02.2012):
+- User manual with screen captures.
+- Examples of usage.
+- Advanced search settings.
+- Download manager.
+- Concurrent preview player.
+
+Thanks to Roel Sanchez [roel.san@gmail.com] [http://www.roelsanchez.net/] for testing this out.
