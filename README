@@ -13,10 +13,10 @@ Just copy the UnityFreesound folder to the /Editor folder in your Unity project.
 - Freesound Config and Credits. Here you can define a folder where the sounds will be stored. Additionally, export the sounds meta-data to CSV format in order to help you with your application credits.
 
 TODO (22.02.2012):
-- User manual with screen captures.
-- Examples of usage.
-- Advanced search settings.
-- Download manager.
+- Upload user manual with screen captures.
+- Add examples of usage.
+- Add advanced search settings.
+- Include a download manager.
 - Improve preview player.
 
 Thanks to Roel Sanchez [roel.san@gmail.com] [http://www.roelsanchez.net/] for testing this out.
