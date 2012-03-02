@@ -11,7 +11,7 @@ Import the "UnityFreesound.unitypackage" in your Unity project. Otherwise, you c
 
 - Freesound Browser. Allows searching and browsing sounds for keywords/tags, listen to a preview of the sounds, go to Freesound.org for a more detailed description if you click on the waveforms, and import the sounds to a user defined folder (/Freesound folder is used as default).
 
-- Freesound Config and Credits. Here you can define a folder where the sounds will be stored. Additionally, it allows exporting the sounds meta-data to CSV format, so you can easily credit sounds from Freesound in your application :)
+- Freesound Config and Credits. Here you can define a folder where the sounds will be stored. Additionally, it allows exporting the sounds metadata to CSV format, so you can easily credit sounds from Freesound in your application :)
 
 TODO (22.02.2012):
 - Upload user manual with screen captures.
