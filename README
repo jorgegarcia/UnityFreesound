@@ -9,7 +9,7 @@ Author: Jorge Garcia [info@jorgegarciamartin.com]
 
 Import the "UnityFreesound.unitypackage" in your Unity project. Otherwise, you can directly import the contents of the /src folder into your /Editor folder of your Unity project. You will find afterwards two new entries in the Window menu:
 
-- Freesound Browser. Allows searching and browsing sounds for keywords/tags, listen to a preview of the sounds, go to Freesound.org for a more detailed description if you click on the waveforms, and import the sounds to a user defined folder (/Freesound folder is used as default).
+- Freesound Browser. Allows searching and browsing sounds for keywords/tags, listen to a preview of the sounds (to STOP after PLAY, press space bar), go to Freesound.org for a more detailed description if you click on the waveforms, and import the sounds to a user defined folder (/Freesound folder is used as default).
 
 - Freesound Config and Credits. Here you can define a folder where the sounds will be stored. Additionally, it allows exporting the sounds metadata to CSV format, so you can easily credit sounds from Freesound in your application :)
 
@@ -20,7 +20,7 @@ TODO (22.02.2012):
 - Include a download manager.
 - Improve preview player.
 
-Thanks to Roel Sanchez [roel.san@gmail.com] [http://www.roelsanchez.net/] for testing this out.
+Thanks to Roel Sanchez [roel.san@gmail.com] [http://www.roelsanchez.net/] for testing this out, providing feedback and additional feature requests.
 
 This Editor tool uses a JSonFX [https://github.com/jsonfx/jsonfx] distribution for Unity3d by The Dark Table [http://the.darktable.com/]
 
