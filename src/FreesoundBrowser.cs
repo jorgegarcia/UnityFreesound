@@ -35,7 +35,7 @@ public class FreesoundBrowser : EditorWindow
 	private bool downloadCompleted_ = false;
 	private bool downloadTimeout_ = false;
 	
-	//Request containers and chache
+	//Request containers and cache
 	private FreesoundLogData lastData_ = new FreesoundLogData();
 	private WWW www_ = null;
 	private WebClient importClient_ = null;
